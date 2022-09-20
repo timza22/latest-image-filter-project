@@ -49,7 +49,7 @@ Add your own domain name and have it point to the running services (try adding a
 
 
 ### Elastic beanstalk endpoint url
-http://udagram-kounagalass-dev-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/happy-friday-quotes-1585622120.jpg
+http://undagram-kounafall-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://ichef.bbci.co.uk/news/976/cpsprodpb/1985/production/_126633560_gettyimages-588701424.jpg
 
 ### Github repository link
 https://github.com/timza22/image-filter-udacity-new
